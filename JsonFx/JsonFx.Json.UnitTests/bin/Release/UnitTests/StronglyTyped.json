@@ -1,0 +1,177 @@
+﻿{
+	"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.ComplexObject, JsonFx.Json.UnitTests",
+	"AnArbitraryRenameForMyNestedProperty": 
+		{
+			"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.NestedObject, JsonFx.Json.UnitTests",
+			"Items": 
+				{
+					"First": 3.14159,
+					"Second": "Hello World",
+					"Third": 42,
+					"Fourth": true
+				},
+			"Hash": 
+				{
+					"Fourth": true,
+					"Third": 42,
+					"First": 3.14159,
+					"Second": "Hello World"
+				},
+			"Hybrid": 
+				{
+					"First": 3.14159,
+					"Second": "Hello World",
+					"Third": 42,
+					"Fourth": true
+				}
+		},
+	"MyDecimal": "0.1234567890123456789012345679",
+	"MyGuid": "26760337-20e6-4d10-9d15-fe694c8461db",
+	"MyTimeSpan": 4465820010000,
+	"MyVersion": "1.2.3.4",
+	"MyUri": "http://jsonfx.net/BuildTools",
+	"MyDateTime": "2013-08-19T23:09:51Z",
+	"MyNullableInt32": null,
+	"MyNullableDateTime": "2013-08-19T23:09:51Z",
+	"MyNullableInt64b": 42,
+	"MyArray": 
+		[
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "Four",
+				"Random": 0.77211148514045
+			},
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "Three",
+				"Random": 0.82900899687270124
+			},
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "Two",
+				"Random": 0.37830253521832757
+			},
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "One",
+				"Random": 0.96243885809669216
+			},
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "None",
+				"Random": 0.90167761170383431
+			}
+		],
+	"MyArrayList": 
+		[
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "Four",
+				"Random": 0.77211148514045
+			},
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "Three",
+				"Random": 0.82900899687270124
+			},
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "Two",
+				"Random": 0.37830253521832757
+			},
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "One",
+				"Random": 0.96243885809669216
+			},
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "None",
+				"Random": 0.90167761170383431
+			}
+		],
+	"MyList": 
+		[
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "Four",
+				"Random": 0.77211148514045
+			},
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "Three",
+				"Random": 0.82900899687270124
+			},
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "Two",
+				"Random": 0.37830253521832757
+			},
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "One",
+				"Random": 0.96243885809669216
+			},
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "None",
+				"Random": 0.90167761170383431
+			}
+		],
+	"MyLinkedList": 
+		[
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "Four",
+				"Random": 0.77211148514045
+			},
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "Three",
+				"Random": 0.82900899687270124
+			},
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "Two",
+				"Random": 0.37830253521832757
+			},
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "One",
+				"Random": 0.96243885809669216
+			},
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "None",
+				"Random": 0.90167761170383431
+			}
+		],
+	"MyQueue": 
+		[
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "Four",
+				"Random": 0.77211148514045
+			},
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "Three",
+				"Random": 0.82900899687270124
+			},
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "Two",
+				"Random": 0.37830253521832757
+			},
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "One",
+				"Random": 0.96243885809669216
+			},
+			{
+				"__type": "Pathfinding.Serialization.JsonFx.Test.UnitTests.SimpleObject, JsonFx.Json.UnitTests",
+				"Blah": "None",
+				"Random": 0.90167761170383431
+			}
+		]
+}
